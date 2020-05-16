@@ -24,6 +24,15 @@ Real data is never clean. We need to make sure we clean the data by converting o
 **BOXING, SUBMISSION(BJJ), TAKEDOWNS(JUDO, WRESTLING, SAMBO), STRIKES(KARATE, MUAY THAI)**
 
 This is done by taking into account how each fighters are winning their fights. Each of these fighting styles have collection of winning methods. By utilizing similar index like cosine similarity, each fighters are designated with one of the fighting discipline.
+Results are presented as:
 
 ![main_bar_graph](main_bar_graph.jpg)
 ![main_stacked](main_stacked.jpg)
+![Champion's style](Champion'style.jpg)
+
+## Trend
+**How finish time has changed over the years?**
+![Finish_time](Finish_time.jpg)
+
+**Which disciplines are winning more over the year?**
+![StyleFlow](StyleFlow.jpg)
