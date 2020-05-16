@@ -19,8 +19,11 @@ Real data is never clean. We need to make sure we clean the data by converting o
 ## Here starts the Exploration
 # Which is the best martial art discipline?
 
-**Classifying fighters into 4 different fighting disciplines.** Taken from Reference paper:Mixed Membership Martial Arts:Data-Driven Analysis of Winning Martial Arts Styles.
+**Classifying fighters into 10 different fighting disciplines.** Taken from Reference paper:Mixed Membership Martial Arts:Data-Driven Analysis of Winning Martial Arts Styles.
 
 **BOXING, SUBMISSION(BJJ), TAKEDOWNS(JUDO, WRESTLING, SAMBO), STRIKES(KARATE, MUAY THAI)**
 
-This is done by taking into account how each fighters are winning their fights. Each of these fighting styles have collection of winning methods.
+This is done by taking into account how each fighters are winning their fights. Each of these fighting styles have collection of winning methods. By utilizing similar index like cosine similarity, each fighters are designated with one of the fighting discipline.
+
+![merged](main_bar_graph.PNG)
+![merged](main_stacked.PNG)
