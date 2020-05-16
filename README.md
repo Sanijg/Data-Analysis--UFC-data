@@ -28,11 +28,13 @@ Results are presented as:
 
 ![main_bar_graph](main_bar_graph.jpg)
 ![main_stacked](main_stacked.jpg)
-![Champion's style](Champion'style.jpg)
+![Champion's style](Champion's style.jpg)
 
 ## Trend
 **How finish time has changed over the years?**
+
 ![Finish_time](Finish_time.jpg)
 
 **Which disciplines are winning more over the year?**
+
 ![StyleFlow](StyleFlow.jpg)
