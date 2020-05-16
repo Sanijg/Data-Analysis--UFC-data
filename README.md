@@ -25,5 +25,5 @@ Real data is never clean. We need to make sure we clean the data by converting o
 
 This is done by taking into account how each fighters are winning their fights. Each of these fighting styles have collection of winning methods. By utilizing similar index like cosine similarity, each fighters are designated with one of the fighting discipline.
 
-![merged](main_bar_graph.PNG)
-![merged](main_stacked.PNG)
+![main_bar_graph](main_bar_graph.jpg)
+![main_stacked](main_stacked.jpg)
